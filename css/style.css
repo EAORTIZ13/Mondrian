@@ -1,0 +1,5 @@
+@charset "utf-8";
+.table1{
+	border-collapse: collapse;
+	border-right: 9px solid black;
+}
